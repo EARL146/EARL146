@@ -1,162 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0f,50:0d1117,100:161b22&text=Earl%20Willan&fontColor=58a6ff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20Freelancer%20%E2%80%94%20College%20Student&descFontColor=8b949e&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:0d1117&text=Earl%20Willan&fontColor=58a6ff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20Freelancer%20%E2%80%94%20PH%20%F0%9F%87%B5%F0%9F%87%AD&descFontColor=8b949e&descFontSize=15&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+secure+%26+scalable+web+apps;AI+Integration+%7C+Cybersecurity;Node.js+%7C+Express+%7C+MySQL+%7C+PHP+%7C+Java;Code+%C2%B7+Learn+%C2%B7+Build+%C2%B7+Improve+%C2%B7+Repeat"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=EARL146&label=Profile+Views&color=0e75b6&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/EARL146?style=flat-square&logo=github&color=58a6ff"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/EARL146?style=flat-square&logo=github&color=f0883e"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                     EARL WILLAN                         ║
-║               Full Stack Web Developer                  ║
-║          Freelancer  ·  College Student  ·  PH 🇵🇭        ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## About
-
-I'm a self-driven developer from the Philippines focused on building **secure, scalable, and modern web applications** that solve real-world problems.
-
-Currently a college student and active freelancer — learning in public, shipping real projects, and growing every day.
+I'm a self-driven developer from the **Philippines** focused on building **secure, scalable, and modern web applications** that solve real-world problems. Currently a college student and active freelancer — learning in public, shipping real projects, and growing every day.
 
 > *"Code · Learn · Build · Improve · Repeat."*
 
 ---
 
-## Currently Learning
+## 🛠 Tech Stack
 
-| Language / Runtime | Focus Area            |
-|--------------------|-----------------------|
-| Java               | OOP, backend logic    |
-| Node.js            | REST APIs, real-time  |
-| PHP                | Server-side scripting |
-| MySQL              | Database design       |
-
----
-
-## Interests
-
-- 🤖 **AI Integration** — LLMs, chatbots, intelligent APIs
-- 🔐 **Cybersecurity** — secure auth, OWASP best practices
-- 🏗 **Backend Development** — scalable system design
-- ⚙️ **Software Engineering** — clean, maintainable code
-
----
-
-## Tech Stack
+### 🎨 Frontend
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3c873a)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=java&logoColor=f89820)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007acc)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
+| <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript |
+|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## Libraries & Packages
+### ⚙️ Backend
 
 <div align="center">
 
-![JWT](https://img.shields.io/badge/JSON%20Web%20Token-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
-![bcryptjs](https://img.shields.io/badge/bcryptjs-0d1117?style=flat-square&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0d1117?style=flat-square&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-0d1117?style=flat-square&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-0d1117?style=flat-square&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-0d1117?style=flat-square&logoColor=white)
-![mysql2](https://img.shields.io/badge/mysql2-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
-![body-parser](https://img.shields.io/badge/body--parser-0d1117?style=flat-square&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express | <img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP | <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## Featured Project — MotoFix 🏍
+### 🗄 Database
 
-**Online Motorcycle Parts & Service Ordering System**
+<div align="center">
 
-A full-stack web application built for motorcycle repair shops and their customers.
+| <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL |
+|:---:|
+
+</div>
+
+---
+
+### 🔧 Tools
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>npm | <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 📌 Currently Learning & Interests
+
+<table>
+<tr>
+<td width="50%">
+
+**📚 Currently Learning**
+- 🔵 Java — OOP & backend logic
+- 🔵 Node.js — REST APIs & real-time apps
+- 🔵 PHP — server-side scripting
+- 🔵 MySQL — database design & queries
+
+</td>
+<td width="50%">
+
+**💡 Interests**
+- 🤖 AI Integration — LLMs & chatbots
+- 🔐 Cybersecurity — OWASP, secure auth
+- 🏗 Backend Development — scalable systems
+- ⚙️ Software Engineering — clean code
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project — MotoFix 🏍
+
+> **Online Motorcycle Parts & Service Ordering System**
+
+A full-stack web application for motorcycle repair shops — customers can order parts, book mechanics, and track their service online. Powered by an AI chatbot for smarter support.
+
+<table>
+<tr>
+<td width="50%">
 
 **Core Features**
-- 🔐 JWT Authentication with bcryptjs
-- 📧 Email OTP Verification via Nodemailer
-- 🤖 AI Chatbot powered by Groq LLaMA
-- 📦 Product Ordering & Inventory Management
-- 🔧 Mechanic Booking System
+- 🔐 JWT Authentication
+- 🤖 AI Chatbot (Groq LLaMA)
+- 🔧 Mechanic Booking
+- 📦 Product Ordering
 - 📊 Admin Dashboard
+- 📦 Inventory Management
+
+</td>
+<td width="50%">
+
+**More Features**
+- 📧 Email OTP Verification
 - 🚚 Order Tracking
-- ⭐ Reviews & Customer Feedback
-- 🖼 Image Upload via Multer
+- 🖼 Image Upload (Multer)
 - 📍 Address Management
+- ⭐ Reviews & Feedback
+- 👤 Customer Registration
 
-**Stack:** `Node.js` · `Express` · `MySQL` · `JWT` · `Groq API` · `HTML/CSS/JS`
+</td>
+</tr>
+</table>
+
+**Stack:**
+`Node.js` · `Express` · `MySQL` · `JWT` · `bcryptjs` · `Nodemailer` · `Multer` · `Groq API` · `HTML/CSS/JS`
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EARL146&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
-
----
-
-## Goals for 2025–2026
-
-- [ ] Ship production-ready applications
-- [ ] Master AI integration (LLMs, embeddings, RAG)
-- [ ] Level up in cybersecurity (OWASP, pen testing basics)
-- [ ] Learn cloud deployment (AWS / Railway / Vercel)
-- [ ] Explore mobile development (React Native)
-- [ ] Grow freelancing client base
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-EARL146-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/EARL146)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=EARL146&label=Profile+Views&color=58a6ff&style=flat-square"/>
+<img src="https://streak-stats.demolab.com?user=EARL146&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0a0a0f,50:0d1117,100:161b22"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EARL146&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Goals 2025–2026
+
+- [ ] 🚀 Ship production-ready applications
+- [ ] 🤖 Master AI integration (LLMs, RAG, embeddings)
+- [ ] 🔐 Level up in cybersecurity (OWASP, pen testing)
+- [ ] ☁️ Learn cloud deployment (AWS / Railway / Vercel)
+- [ ] 📱 Explore mobile development (React Native)
+- [ ] 💼 Grow freelancing client base
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-EARL146-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/EARL146)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Thanks for visiting! If you enjoy my work, give my repos a star.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:0d1117"/>
 
 </div>
