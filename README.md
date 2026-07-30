@@ -1,132 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Earl%20Willan&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Freelancer%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20College%20Student&descAlignY=60&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Building+Real-World+Web+Applications;Full+Stack+Web+Developer;AI+Integration+%7C+Cybersecurity;Always+Learning+New+Technologies;Let's+Build+Something+Amazing!"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=EARL146&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/EARL146?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/EARL146?style=for-the-badge&logo=github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0f,50:0d1117,100:161b22&text=Earl%20Willan&fontColor=58a6ff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20Freelancer%20%E2%80%94%20College%20Student&descFontColor=8b949e&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
 
-```txt
-Name      : Earl Willan
-Username  : EARL146
-Country   : Philippines 🇵🇭
-
-Role
-───────────────
-💼 Freelancer
-💻 Full Stack Web Developer
-🎓 College Student
-
-Currently Learning
-────────────────────────
-✔ Java
-✔ Node.js
-✔ PHP
-✔ MySQL
-
-Interested In
-────────────────────────
-✔ AI Integration
-✔ Cybersecurity
-✔ Backend Development
-✔ Software Engineering
-
-Mission
-────────────────────────
-Building secure, scalable,
-modern web applications
-that solve real-world problems.
+```
+╔══════════════════════════════════════════════════════════╗
+║                     EARL WILLAN                         ║
+║               Full Stack Web Developer                  ║
+║          Freelancer  ·  College Student  ·  PH 🇵🇭        ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 ---
 
-# 🚀 Tech Stack
+## About
+
+I'm a self-driven developer from the Philippines focused on building **secure, scalable, and modern web applications** that solve real-world problems.
+
+Currently a college student and active freelancer — learning in public, shipping real projects, and growing every day.
+
+> *"Code · Learn · Build · Improve · Repeat."*
+
+---
+
+## Currently Learning
+
+| Language / Runtime | Focus Area            |
+|--------------------|-----------------------|
+| Java               | OOP, backend logic    |
+| Node.js            | REST APIs, real-time  |
+| PHP                | Server-side scripting |
+| MySQL              | Database design       |
+
+---
+
+## Interests
+
+- 🤖 **AI Integration** — LLMs, chatbots, intelligent APIs
+- 🔐 **Cybersecurity** — secure auth, OWASP best practices
+- 🏗 **Backend Development** — scalable system design
+- ⚙️ **Software Engineering** — clean, maintainable code
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,java,mysql,git,github,vscode,npm,postman"/>
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3c873a)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=java&logoColor=f89820)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007acc)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
 
 </div>
 
 ---
 
-# 📦 Libraries
+## Libraries & Packages
 
 <div align="center">
 
-![](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-![](https://img.shields.io/badge/mysql2-4479A1?style=for-the-badge&logo=mysql)
-
-![](https://img.shields.io/badge/bcryptjs-121212?style=for-the-badge)
-
-![](https://img.shields.io/badge/JSON_Web_Token-black?style=for-the-badge&logo=jsonwebtokens)
-
-![](https://img.shields.io/badge/Nodemailer-00AEEF?style=for-the-badge)
-
-![](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge)
-
-![](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
-
-![](https://img.shields.io/badge/Multer-orange?style=for-the-badge)
-
-![](https://img.shields.io/badge/body--parser-purple?style=for-the-badge)
-
-![](https://img.shields.io/badge/fs-444?style=for-the-badge)
-
-![](https://img.shields.io/badge/path-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JSON%20Web%20Token-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-0d1117?style=flat-square&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0d1117?style=flat-square&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-0d1117?style=flat-square&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-0d1117?style=flat-square&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-0d1117?style=flat-square&logoColor=white)
+![mysql2](https://img.shields.io/badge/mysql2-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
+![body-parser](https://img.shields.io/badge/body--parser-0d1117?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-# 🌟 Featured Project
+## Featured Project — MotoFix 🏍
 
-<div align="center">
+**Online Motorcycle Parts & Service Ordering System**
 
-# 🏍 MotoFix
+A full-stack web application built for motorcycle repair shops and their customers.
 
-### Online Motorcycle Parts & Service Ordering System
-
-</div>
-
-### Features
-
-- 🔐 JWT Authentication
-- 👤 Customer Login & Registration
-- 📦 Product Ordering
-- 🔧 Mechanic Booking
-- 🤖 AI Chatbot (Groq LLaMA)
+**Core Features**
+- 🔐 JWT Authentication with bcryptjs
+- 📧 Email OTP Verification via Nodemailer
+- 🤖 AI Chatbot powered by Groq LLaMA
+- 📦 Product Ordering & Inventory Management
+- 🔧 Mechanic Booking System
 - 📊 Admin Dashboard
-- 📦 Inventory Management
-- 📧 Email OTP Verification
-- 🖼 Image Upload
-- 📍 Address Management
 - 🚚 Order Tracking
-- ⭐ Customer Feedback
-- 📝 Reviews System
+- ⭐ Reviews & Customer Feedback
+- 🖼 Image Upload via Multer
+- 📍 Address Management
+
+**Stack:** `Node.js` · `Express` · `MySQL` · `JWT` · `Groq API` · `HTML/CSS/JS`
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=EARL146&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+</div>
+
+---
+
+## Goals for 2025–2026
+
+- [ ] Ship production-ready applications
+- [ ] Master AI integration (LLMs, embeddings, RAG)
+- [ ] Level up in cybersecurity (OWASP, pen testing basics)
+- [ ] Learn cloud deployment (AWS / Railway / Vercel)
+- [ ] Explore mobile development (React Native)
+- [ ] Grow freelancing client base
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-EARL146-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/EARL146)
 
 </div>
 
@@ -134,77 +151,12 @@ that solve real-world problems.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EARL146&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=EARL146&label=Profile+Views&color=58a6ff&style=flat-square"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EARL146&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EARL146&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 💬 Developer's Philosophy
-
-<div align="center">
-
-> ### "Great software is built through continuous learning, consistent practice, and solving real-world problems."
-
-I believe programming is more than writing code—it's about creating meaningful solutions that improve people's lives.
-
-Every project I build is an opportunity to learn, refine my skills, and grow as a developer. My focus is on writing clean, maintainable, and secure code while exploring modern technologies such as Artificial Intelligence, Backend Development, and Cybersecurity.
-
-As a freelancer and college student, I'm committed to continuous improvement, embracing new challenges, and transforming innovative ideas into reliable software.
-
-**Learning Never Stops. Building Never Ends.**
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build Production-Ready Applications
-- 🤖 Master AI Integration
-- 🔐 Learn Advanced Cybersecurity
-- ☁ Learn Cloud Deployment
-- 📱 Explore Mobile Development
-- 💼 Grow My Freelancing Career
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/EARL146">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting!
-
-If you enjoy my work, consider giving my repositories a ⭐ and feel free to collaborate on exciting projects.
-
-**"Code • Learn • Build • Improve • Repeat."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0a0a0f,50:0d1117,100:161b22"/>
 
 </div>
