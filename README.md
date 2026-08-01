@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=EARL%20PAJO&fontSize=50&fontColor=ffffff"/>
 
-# 👋 Hi, I'm Earl
+# Full Stack Developer
 
-### Full Stack Web Developer
+Building modern web applications with Node.js, PHP, Java, and MySQL.
 
-Building modern web applications with Node.js, PHP, MySQL, and Java.
-
-<p align="center">
+<p>
   <a href="https://github.com/EARL146">
     <img src="https://img.shields.io/badge/GitHub-EARL146-181717?style=flat&logo=github&logoColor=white"/>
   </a>
@@ -19,18 +17,16 @@ Building modern web applications with Node.js, PHP, MySQL, and Java.
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-```javascript
-const earl = {
-    location: "Philippines 🇵🇭",
-    role: "Full Stack Developer",
-    education: "College Student",
-    currentProject: "MotoFix",
-    learning: ["AI Integration", "Cybersecurity", "Backend Development"],
-    goal: "Build useful software and grow as a professional developer"
-}
-```
+Hi, I'm **Earl**, a college student from the Philippines with a passion for building web applications and learning new technologies.
+
+- 🏍️ Currently developing **MotoFix**
+- 💻 Interested in Full Stack Development
+- 🤖 Exploring AI-powered applications
+- 🔐 Learning Cybersecurity
+- 🌱 Improving Backend Development skills
+- 🎯 Goal: Build software that solves real-world problems
 
 ---
 
@@ -41,9 +37,9 @@ const earl = {
 | Frontend | Backend | Database | Tools |
 |----------|----------|----------|-------|
 | <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> |
-| <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> | | <img src="https://skillicons.dev/icons?i=github" width="45"/> |
-| <img src="https://skillicons.dev/icons?i=js" width="45"/> | <img src="https://skillicons.dev/icons?i=php" width="45"/> | | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> |
-| | <img src="https://skillicons.dev/icons?i=java" width="45"/> | | <img src="https://skillicons.dev/icons?i=postman" width="45"/> |
+| <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> |  | <img src="https://skillicons.dev/icons?i=github" width="45"/> |
+| <img src="https://skillicons.dev/icons?i=js" width="45"/> | <img src="https://skillicons.dev/icons?i=php" width="45"/> |  | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> |
+|  | <img src="https://skillicons.dev/icons?i=java" width="45"/> |  | <img src="https://skillicons.dev/icons?i=postman" width="45"/> |
 
 </div>
 
@@ -51,23 +47,30 @@ const earl = {
 
 # 🏍️ Featured Project
 
-## MotoFix
+<div align="center">
+
+<a href="https://github.com/EARL146/MotoFix">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EARL146&repo=MotoFix&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
+
+### MotoFix
 
 Online Motorcycle Parts & Service Ordering System
 
-### Features
+**Main Features**
 
 - 🔐 Secure Authentication
 - 🤖 AI Chatbot Integration
 - 📧 Email OTP Verification
-- 📦 Product Ordering System
+- 📦 Product Ordering
 - 🔧 Mechanic Booking
 - 📊 Admin Dashboard
 - 🚚 Order Tracking
 - 🖼️ Image Upload System
-- ⭐ Customer Reviews
 
-### Tech Used
+**Tech Stack**
 
 `Node.js` • `Express.js` • `MySQL` • `JWT` • `Groq API`
 
@@ -97,18 +100,18 @@ Online Motorcycle Parts & Service Ordering System
 
 - 🚀 Improving MotoFix
 - 🤖 Learning AI Integration
-- 🔐 Learning Cybersecurity
-- ☁️ Exploring Cloud Deployment
-- 💼 Growing Freelance Skills
+- 🔐 Studying Cybersecurity
+- ☁️ Exploring Cloud Technologies
+- 💼 Building Real Projects
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
 <div align="center">
 
 <a href="https://github.com/EARL146">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
@@ -122,3 +125,4 @@ Online Motorcycle Parts & Service Ordering System
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
+
