@@ -1,23 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=EARL%20PAJO&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Welcome%20&fontSize=50&fontColor=ffffff"/>
 
-# Full Stack Developer
 
-Building modern web applications with Node.js, PHP, Java, and MySQL.
+
 
 <p>
-  <a href="https://github.com/EARL146">
-    <img src="https://img.shields.io/badge/GitHub-EARL146-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=EARL146&style=flat&color=1f6feb"/>
+<a href="https://github.com/EARL146">
+<img src="https://img.shields.io/badge/GitHub-EARL146-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=EARL146&style=flat&color=1f6feb"/>
 </p>
 
 </div>
 
 ---
 
+<div align="center">
+
 # 👋 About Me
+
+</div>
 
 Hi, I'm **Earl**, a college student from the Philippines with a passion for building web applications and learning new technologies.
 
@@ -25,12 +28,17 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 - 💻 Interested in Full Stack Development
 - 🤖 Exploring AI-powered applications
 - 🔐 Learning Cybersecurity
-- 🌱 Improving Backend Development skills
+- 🌱 Improving Backend Development Skills
 - 🎯 Goal: Build software that solves real-world problems
+- 💼 Freelance Services
 
 ---
 
+<div align="center">
+
 # 🛠️ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -45,50 +53,20 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 ---
 
-# 🏍️ Featured Project
-
 <div align="center">
 
-<a href="https://github.com/EARL146/MotoFix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EARL146&repo=MotoFix&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-
-### MotoFix
-
-Online Motorcycle Parts & Service Ordering System
-
-**Main Features**
-
-- 🔐 Secure Authentication
-- 🤖 AI Chatbot Integration
-- 📧 Email OTP Verification
-- 📦 Product Ordering
-- 🔧 Mechanic Booking
-- 📊 Admin Dashboard
-- 🚚 Order Tracking
-- 🖼️ Image Upload System
-
-**Tech Stack**
-
-`Node.js` • `Express.js` • `MySQL` • `JWT` • `Groq API`
 
 ---
 
-# 📊 GitHub Statistics
-
 <div align="center">
+
+# 📊 GitHub Statistics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=EARL146&theme=github-dark&hide_border=true"/>
 
@@ -96,22 +74,16 @@ Online Motorcycle Parts & Service Ordering System
 
 ---
 
-# 🎯 Current Focus
+<div align="center">
 
-- 🚀 Improving MotoFix
-- 🤖 Learning AI Integration
-- 🔐 Studying Cybersecurity
-- ☁️ Exploring Cloud Technologies
-- 💼 Building Real Projects
 
----
-
-# 📫 Connect
 
 <div align="center">
 
+# 📫 Connect
+
 <a href="https://github.com/EARL146">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -125,4 +97,3 @@ Online Motorcycle Parts & Service Ordering System
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
-
