@@ -18,19 +18,19 @@
 
 <div align="center">
 
-# 👋 About Me
+#  About Me
 
 </div>
 
 Hi, I'm **Earl**, a college student from the Philippines with a passion for building web applications and learning new technologies.
 
-- 🏍️ Currently developing **MotoFix**
-- 💻 Full Stack Development
-- 🤖 Exploring AI-powered applications
-- 🔐 Learning Cybersecurity
-- 💻 Improving Backend Development Skills
-- 🎯 Goal: Build software that solves real-world problems
-- 💼 Freelance Services
+-  Currently developing **MotoFix**
+- Full Stack Development
+- Exploring AI-powered applications
+- Learning Cybersecurity
+- Improving Backend Development Skills
+- Goal: Build software that solves real-world problems
+-  Freelance Services
 
 ---
 
@@ -60,7 +60,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 <div align="center">
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true"/>
 
@@ -80,7 +80,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 <div align="center">
 
-# 📫 Connect
+#  Connect
 
 <a href="https://github.com/EARL146">
 <img src="https://skillicons.dev/icons?i=github" />
