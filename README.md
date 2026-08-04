@@ -36,7 +36,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 <div align="center">
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 </div>
 
@@ -78,22 +78,5 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 
 
-<div align="center">
 
-#  Connect
 
-<a href="https://github.com/EARL146">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
