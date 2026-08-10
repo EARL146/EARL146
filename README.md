@@ -35,24 +35,16 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 ---
 
 <div align="center">
-
-#  Tech Stack
-
-</div>
-
-<div align="center">
-
-## Tech Stack
-# Tech Stack
-
+  
+#tech Stack
+  
 | Frontend | Backend | Database | Tools & Environment |
 | -------- | ------- | -------- | ------------------- |
-| ![React](https://skillicons.dev/icons?i=react) React.js | ![Java](https://skillicons.dev/icons?i=java) Java | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Kali](https://skillicons.dev/icons?i=kali) Kali Linux |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js | ![Spring](https://skillicons.dev/icons?i=spring) Spring Boot | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB | AMPPS |
-| ![HTML](https://skillicons.dev/icons?i=html) HTML5 | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
-| ![CSS](https://skillicons.dev/icons?i=css) CSS3 | ![Laravel](https://skillicons.dev/icons?i=laravel) Laravel | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
-
+| ![HTML5](https://skillicons.dev/icons?i=html) HTML5 | ![Java](https://skillicons.dev/icons?i=java) Java | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Kali](https://skillicons.dev/icons?i=kali) Kali Linux |
+| ![CSS3](https://skillicons.dev/icons?i=css) CSS3 | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js |<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" width="40"/> phpMyAdmin | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
+| ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Arduino](https://skillicons.dev/icons?i=arduino) Arduino |
+| | | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
+| | | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
 </div>
 
 ---
