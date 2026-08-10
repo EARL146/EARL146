@@ -62,11 +62,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 #  GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EARL146&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EARL146&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=EARL146&theme=github-dark&hide_border=true"/>
 
