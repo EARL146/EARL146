@@ -43,15 +43,15 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 <div align="center">
 
 ## Tech Stack
-
 # Tech Stack
+
 | Frontend | Backend | Database | Tools & Environment |
 | -------- | ------- | -------- | ------------------- |
-| ![HTML5](https://skillicons.dev/icons?i=html) HTML5 | ![Java](https://skillicons.dev/icons?i=java) Java | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Kali](https://skillicons.dev/icons?i=kali) Kali Linux |
-| ![CSS3](https://skillicons.dev/icons?i=css) CSS3 | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
-| ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript | | | ![AMPPS](https://img.shields.io/badge/AMPPS-Development%20Server-blue?style=for-the-badge) |
-| | | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
-| | | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
+| ![React](https://skillicons.dev/icons?i=react) React.js | ![Java](https://skillicons.dev/icons?i=java) Java | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Kali](https://skillicons.dev/icons?i=kali) Kali Linux |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js | ![Spring](https://skillicons.dev/icons?i=spring) Spring Boot | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB | AMPPS |
+| ![HTML](https://skillicons.dev/icons?i=html) HTML5 | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
+| ![CSS](https://skillicons.dev/icons?i=css) CSS3 | ![Laravel](https://skillicons.dev/icons?i=laravel) Laravel | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
 
 </div>
 
