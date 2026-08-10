@@ -42,12 +42,17 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|----------|----------|----------|-------|
-| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> |
-| <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=express" width="45"/> |  | <img src="https://skillicons.dev/icons?i=github" width="45"/> |
-| <img src="https://skillicons.dev/icons?i=js" width="45"/> | <img src="https://skillicons.dev/icons?i=php" width="45"/> |  | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> |
-|  | <img src="https://skillicons.dev/icons?i=java" width="45"/> |  | <img src="https://skillicons.dev/icons?i=postman" width="45"/> |
+## Tech Stack
+
+# Tech Stack
+
+| Frontend | Backend | Database | Tools & Environment |
+| -------- | ------- | -------- | ------------------- |
+| ![React](https://skillicons.dev/icons?i=react) React.js | ![Java](https://skillicons.dev/icons?i=java) Java | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Kali](https://skillicons.dev/icons?i=kali) Kali Linux |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js | ![Spring](https://skillicons.dev/icons?i=spring) Spring Boot | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB | AMPPS |
+| ![HTML](https://skillicons.dev/icons?i=html) HTML5 | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
+| ![CSS](https://skillicons.dev/icons?i=css) CSS3 | ![Laravel](https://skillicons.dev/icons?i=laravel) Laravel | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
 
 </div>
 
