@@ -57,9 +57,6 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/EARL146/EARL146/output/github-contribution-grid-snake.svg)
-
-
 
 <div align="center">
 
