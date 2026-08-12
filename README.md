@@ -21,7 +21,7 @@
 
 Hi, I'm **Earl**, a college student from the Philippines with a passion for building web applications and learning new technologies.
 
-- Currently developing **MotoFix**
+
 - Full Stack Development
 - Exploring AI-powered applications
 - Learning Cybersecurity
