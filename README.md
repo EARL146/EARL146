@@ -68,5 +68,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 
 <p align="center">
-  <img src="./Screenshot%202026-09-06%20230551.png" width="900">
+  <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="900">
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="900">
 </p>
