@@ -67,13 +67,6 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 
 
-<h2 align="center">🎓 My Certification</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/EARL146/certificate/main/certificate.png" width="900">
-</p>
-
-<p align="center">
-  <strong>Full Stack Web Development + AI — Level 0</strong><br>
-  Learn Technology Today Philippines · September 06, 2026
 </p>
