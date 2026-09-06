@@ -67,8 +67,11 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="900">
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="900">
-</p>
+# 🎓 My Certification
+
+## Full Stack Web Development + AI — Level 0
+
+📜 **Certificate:** [View Certificate](https://github.com/EARL146/certificate/blob/main/LTT-COURSE-2026-000064.pdf)
+
+**Learn Technology Today Philippines**  
+**Completed:** September 06, 2026
