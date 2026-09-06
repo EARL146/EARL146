@@ -69,5 +69,5 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 ## Full Stack Web Development + AI — Level 0
 
 <p align="center">
-  <img src="./Screenshot%202026-09-06%20230551.png" width="900">
+  <img src="Screenshot%202026-09-06%20230551.png" width="900">
 </p>
