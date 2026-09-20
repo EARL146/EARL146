@@ -21,7 +21,6 @@
 
 Hi, I'm **Earl**, a college student from the Philippines with a passion for building web applications and learning new technologies.
 
-
 - Full Stack Development
 - Exploring AI-powered applications
 - Learning Cybersecurity
@@ -41,7 +40,7 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 | ![CSS3](https://skillicons.dev/icons?i=css) CSS3 | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" width="40"/> phpMyAdmin | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) Ubuntu 22.04 LTS |
 | ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript | ![PHP](https://skillicons.dev/icons?i=php) PHP | | ![Arduino](https://skillicons.dev/icons?i=arduino) Arduino |
 | | <img src="https://cdn.simpleicons.org/express/white" width="40" height="40"/> Express.js | | ![Git](https://skillicons.dev/icons?i=git) Git & GitHub |
-| | | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
+| | ![Laravel](https://skillicons.dev/icons?i=laravel) Laravel | | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
 
 </div>
 
@@ -57,15 +56,13 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
 
 ---
 
-
 <div align="center">
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/EARL146/EARL146/output/github-contribution-grid-snake.svg)
 
 </div>
+
 # 🎓 My Certification
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="900">
