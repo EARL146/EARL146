@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1180" height="630" viewBox="0 0 1180 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technology Universe - Earl">
+  <defs>
+    <!-- Background Grid Pattern -->
+    <pattern id="techGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00ff66" stroke-width="0.6" stroke-opacity="0.08"/>
+    </pattern>
+
+    <!-- Glowing Filters -->
+    <filter id="neonGlowGreen" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="neonGlowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradients -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="50%" stop-color="#00FF88"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a1815" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#050d0c" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <style>
+      .font-mono {
+        font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, ui-monospace, monospace;
+      }
+      .font-sans {
+        font-family: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      }
+      @keyframes radarSweep {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes scanlineAnim {
+        0% { transform: translateY(0); opacity: 0.1; }
+        50% { opacity: 0.35; }
+        100% { transform: translateY(630px); opacity: 0.1; }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.85; }
+        50% { opacity: 0.45; }
+      }
+      .radar-spin {
+        transform-origin: 20px 20px;
+        animation: radarSweep 4s linear infinite;
+      }
+      .pulse {
+        animation: pulseGlow 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Deep Cyber Background -->
+  <rect width="1180" height="630" rx="18" fill="#040908"/>
+  <rect width="1180" height="630" rx="18" fill="url(#techGrid)"/>
+
+  <!-- Scanning line -->
+  <line x1="0" y1="0" x2="1180" y2="0" stroke="#00FF88" stroke-width="1.5" opacity="0.2">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 630; 0 0" dur="10s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Outer HUD Frame & Tech Corner Brackets -->
+  <rect x="15" y="15" width="1150" height="600" rx="12" fill="none" stroke="#00FF88" stroke-width="1" stroke-opacity="0.25"/>
+  <path d="M 15 45 L 15 15 L 45 15 M 1165 45 L 1165 15 L 1135 15 M 15 585 L 15 615 L 45 615 M 1165 585 L 1165 615 L 1135 615" 
+        fill="none" stroke="#00FF88" stroke-width="2.5" filter="url(#neonGlowGreen)"/>
+
+  <!-- Top Title Banner -->
+  <g transform="translate(590, 52)" text-anchor="middle">
+    <text y="0" class="font-mono" font-size="26" font-weight="900" fill="url(#headerGrad)" letter-spacing="6" filter="url(#neonGlowCyan)">TECHNOLOGY UNIVERSE</text>
+    <text y="22" class="font-mono" font-size="10.5" font-weight="600" fill="#00FF88" letter-spacing="3" opacity="0.85">ENGINEERING STACK // SYSTEMS // INFRASTRUCTURE // INTELLIGENCE</text>
+  </g>
+
+  <!-- ==================== CARD 1: FRONTEND ==================== -->
+  <g transform="translate(35, 100)">
+    <!-- Card Base -->
+    <rect width="265" height="470" rx="10" fill="url(#cardGrad)" stroke="#00FF88" stroke-opacity="0.3" stroke-width="1"/>
+    <path d="M 0 20 L 20 0" stroke="#00FF88" stroke-width="2" filter="url(#neonGlowGreen)"/>
+
+    <!-- Header: 01 / INTERFACE -->
+    <text x="18" y="32" class="font-mono" font-size="10" font-weight="700" fill="#00FF88" letter-spacing="1.5">01 / INTERFACE</text>
+    <text x="18" y="62" class="font-mono" font-size="22" font-weight="900" fill="#FFFFFF" letter-spacing="1">FRONTEND</text>
+    <text x="18" y="80" class="font-sans" font-size="10.5" fill="#88A096">Experience • UI/UX • Components</text>
+
+    <!-- Mini Radar Icon -->
+    <g transform="translate(215, 25)">
+      <circle cx="20" cy="20" r="16" fill="none" stroke="#00FF88" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="20" cy="20" r="8" fill="none" stroke="#00FF88" stroke-opacity="0.7" stroke-width="1"/>
+      <line x1="20" y1="20" x2="36" y2="20" stroke="#00FF88" stroke-width="1.5" class="radar-spin" filter="url(#neonGlowGreen)"/>
+    </g>
+
+    <!-- Tech Badges -->
+    <g transform="translate(18, 105)" class="font-mono" font-size="9" font-weight="700" fill="#00FF88" text-anchor="middle">
+      <rect x="0" y="0" width="34" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="17" y="14">HTML</text>
+      <rect x="40" y="0" width="34" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="57" y="14">CSS</text>
+      <rect x="80" y="0" width="34" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="97" y="14">JS</text>
+      <rect x="120" y="0" width="48" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="144" y="14">REACT</text>
+      <rect x="174" y="0" width="52" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="200" y="14">TAILWIND</text>
+    </g>
+
+    <!-- Divider -->
+    <line x1="18" y1="145" x2="247" y2="145" stroke="#00FF88" stroke-opacity="0.15" stroke-dasharray="3 3"/>
+
+    <!-- Core Toolchain -->
+    <text x="18" y="172" class="font-mono" font-size="10.5" font-weight="800" fill="#00FF88" letter-spacing="1">CORE TOOLCHAIN</text>
+    <g class="font-sans" font-size="12" fill="#D1E8DF">
+      <text x="18" y="202">• HTML5 Semantics</text>
+      <text x="18" y="228">• Modern CSS3 &amp; Flexbox</text>
+      <text x="18" y="254">• JavaScript (ES6+)</text>
+      <text x="18" y="280">• Responsive Web Design</text>
+      <text x="18" y="306">• Tailwind CSS Framework</text>
+      <text x="18" y="332">• Interactive UI Components</text>
+    </g>
+
+    <!-- Bottom Status -->
+    <g transform="translate(18, 385)">
+      <text x="0" y="12" class="font-mono" font-size="9" font-weight="800" fill="#88A096" letter-spacing="1">BUILD STATUS</text>
+      <text x="0" y="30" class="font-mono" font-size="12" font-weight="800" fill="#00FF88" letter-spacing="0.5">COMPONENTS ONLINE</text>
+      <!-- Progress Bar -->
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="#08201a"/>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="url(#barGrad)" filter="url(#neonGlowGreen)"/>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 2: BACKEND ==================== -->
+  <g transform="translate(320, 100)">
+    <rect width="265" height="470" rx="10" fill="url(#cardGrad)" stroke="#00FF88" stroke-opacity="0.3" stroke-width="1"/>
+    <path d="M 0 20 L 20 0" stroke="#00FF88" stroke-width="2" filter="url(#neonGlowGreen)"/>
+
+    <text x="18" y="32" class="font-mono" font-size="10" font-weight="700" fill="#00FF88" letter-spacing="1.5">02 / LOGIC</text>
+    <text x="18" y="62" class="font-mono" font-size="22" font-weight="900" fill="#FFFFFF" letter-spacing="1">BACKEND</text>
+    <text x="18" y="80" class="font-sans" font-size="10.5" fill="#88A096">APIs • Services • Architecture</text>
+
+    <!-- Server Icon -->
+    <g transform="translate(215, 25)">
+      <rect x="6" y="6" width="28" height="8" rx="2" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <circle cx="11" cy="10" r="1.5" fill="#00FF88"/>
+      <rect x="6" y="17" width="28" height="8" rx="2" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <circle cx="11" cy="21" r="1.5" fill="#00FF88"/>
+      <rect x="6" y="28" width="28" height="8" rx="2" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <circle cx="11" cy="32" r="1.5" fill="#00FF88"/>
+    </g>
+
+    <g transform="translate(18, 105)" class="font-mono" font-size="9" font-weight="700" fill="#00FF88" text-anchor="middle">
+      <rect x="0" y="0" width="38" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="19" y="14">NODE</text>
+      <rect x="44" y="0" width="32" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="60" y="14">PHP</text>
+      <rect x="82" y="0" width="54" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="109" y="14">LARAVEL</text>
+      <rect x="142" y="0" width="38" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="161" y="14">JAVA</text>
+      <rect x="186" y="0" width="42" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="207" y="14">PYTHON</text>
+    </g>
+
+    <line x1="18" y1="145" x2="247" y2="145" stroke="#00FF88" stroke-opacity="0.15" stroke-dasharray="3 3"/>
+
+    <text x="18" y="172" class="font-mono" font-size="10.5" font-weight="800" fill="#00FF88" letter-spacing="1">SERVICE LAYER</text>
+    <g class="font-sans" font-size="12" fill="#D1E8DF">
+      <text x="18" y="202">• Node.js &amp; Express.js</text>
+      <text x="18" y="228">• PHP &amp; Laravel Framework</text>
+      <text x="18" y="254">• Java OOP &amp; Backend Logic</text>
+      <text x="18" y="280">• Python (AI Integrations)</text>
+      <text x="18" y="306">• RESTful API Engineering</text>
+      <text x="18" y="332">• Auth &amp; Session Management</text>
+    </g>
+
+    <g transform="translate(18, 385)">
+      <text x="0" y="12" class="font-mono" font-size="9" font-weight="800" fill="#88A096" letter-spacing="1">REQUEST FLOW</text>
+      <text x="0" y="30" class="font-mono" font-size="12" font-weight="800" fill="#00FF88" letter-spacing="0.5">SERVICES SYNCHRONIZED</text>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="#08201a"/>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="url(#barGrad)" filter="url(#neonGlowGreen)"/>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 3: DATA ==================== -->
+  <g transform="translate(605, 100)">
+    <rect width="265" height="470" rx="10" fill="url(#cardGrad)" stroke="#00FF88" stroke-opacity="0.3" stroke-width="1"/>
+    <path d="M 0 20 L 20 0" stroke="#00FF88" stroke-width="2" filter="url(#neonGlowGreen)"/>
+
+    <text x="18" y="32" class="font-mono" font-size="10" font-weight="700" fill="#00FF88" letter-spacing="1.5">03 / KNOWLEDGE</text>
+    <text x="18" y="62" class="font-mono" font-size="22" font-weight="900" fill="#FFFFFF" letter-spacing="1">DATA</text>
+    <text x="18" y="80" class="font-sans" font-size="10.5" fill="#88A096">Persistence • Modeling • Query</text>
+
+    <!-- Cylinder / Database Icon -->
+    <g transform="translate(215, 25)">
+      <ellipse cx="20" cy="10" rx="14" ry="5" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <path d="M 6 10 L 6 22 A 14 5 0 0 0 34 22 L 34 10" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <path d="M 6 22 L 6 32 A 14 5 0 0 0 34 32 L 34 22" fill="none" stroke="#00FF88" stroke-width="1"/>
+    </g>
+
+    <g transform="translate(18, 105)" class="font-mono" font-size="9" font-weight="700" fill="#00FF88" text-anchor="middle">
+      <rect x="0" y="0" width="46" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="23" y="14">MYSQL</text>
+      <rect x="52" y="0" width="82" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="93" y="14">PHPMYADMIN</text>
+      <rect x="140" y="0" width="38" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="159" y="14">SQL</text>
+      <rect x="184" y="0" width="42" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="205" y="14">CRUD</text>
+    </g>
+
+    <line x1="18" y1="145" x2="247" y2="145" stroke="#00FF88" stroke-opacity="0.15" stroke-dasharray="3 3"/>
+
+    <text x="18" y="172" class="font-mono" font-size="10.5" font-weight="800" fill="#00FF88" letter-spacing="1">DATA SYSTEMS</text>
+    <g class="font-sans" font-size="12" fill="#D1E8DF">
+      <text x="18" y="202">• MySQL Relational DB</text>
+      <text x="18" y="228">• phpMyAdmin Management</text>
+      <text x="18" y="254">• Database Schema Modeling</text>
+      <text x="18" y="280">• SQL Queries &amp; Joins</text>
+      <text x="18" y="306">• Data Normalization</text>
+      <text x="18" y="332">• Storage Performance</text>
+    </g>
+
+    <g transform="translate(18, 385)">
+      <text x="0" y="12" class="font-mono" font-size="9" font-weight="800" fill="#88A096" letter-spacing="1">DATA PIPELINE</text>
+      <text x="0" y="30" class="font-mono" font-size="12" font-weight="800" fill="#00FF88" letter-spacing="0.5">STREAMS HEALTHY</text>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="#08201a"/>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="url(#barGrad)" filter="url(#neonGlowGreen)"/>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 4: CLOUD & CYBER ==================== -->
+  <g transform="translate(880, 100)">
+    <rect width="265" height="470" rx="10" fill="url(#cardGrad)" stroke="#00FF88" stroke-opacity="0.3" stroke-width="1"/>
+    <path d="M 0 20 L 20 0" stroke="#00FF88" stroke-width="2" filter="url(#neonGlowGreen)"/>
+
+    <text x="18" y="32" class="font-mono" font-size="10" font-weight="700" fill="#00FF88" letter-spacing="1.5">04 / ENVIRONMENT</text>
+    <text x="18" y="62" class="font-mono" font-size="22" font-weight="900" fill="#FFFFFF" letter-spacing="1">CYBER &amp; TOOLS</text>
+    <text x="18" y="80" class="font-sans" font-size="10.5" fill="#88A096">Defense • Hardware • OS • Git</text>
+
+    <!-- Shield / Terminal Icon -->
+    <g transform="translate(215, 25)">
+      <path d="M 20 6 L 34 11 L 34 22 C 34 30 20 36 20 36 C 20 36 6 30 6 22 L 6 11 Z" fill="none" stroke="#00FF88" stroke-width="1"/>
+      <circle cx="20" cy="20" r="3" fill="#00FF88" filter="url(#neonGlowGreen)"/>
+    </g>
+
+    <g transform="translate(18, 105)" class="font-mono" font-size="9" font-weight="700" fill="#00FF88" text-anchor="middle">
+      <rect x="0" y="0" width="36" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="18" y="14">KALI</text>
+      <rect x="42" y="0" width="46" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="65" y="14">UBUNTU</text>
+      <rect x="94" y="0" width="50" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="119" y="14">ARDUINO</text>
+      <rect x="150" y="0" width="30" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="165" y="14">GIT</text>
+      <rect x="186" y="0" width="42" height="20" rx="10" fill="#06221c" stroke="#00FF88" stroke-opacity="0.4"/>
+      <text x="207" y="14">VSCODE</text>
+    </g>
+
+    <line x1="18" y1="145" x2="247" y2="145" stroke="#00FF88" stroke-opacity="0.15" stroke-dasharray="3 3"/>
+
+    <text x="18" y="172" class="font-mono" font-size="10.5" font-weight="800" fill="#00FF88" letter-spacing="1">INFRASTRUCTURE</text>
+    <g class="font-sans" font-size="12" fill="#D1E8DF">
+      <text x="18" y="202">• Kali Linux Security Recon</text>
+      <text x="18" y="228">• Ubuntu 22.04 LTS Server</text>
+      <text x="18" y="254">• Arduino Microcontrollers</text>
+      <text x="18" y="280">• Git &amp; GitHub Version Control</text>
+      <text x="18" y="306">• VS Code Dev Environment</text>
+      <text x="18" y="332">• Cybersecurity Audit Basics</text>
+    </g>
+
+    <g transform="translate(18, 385)">
+      <text x="0" y="12" class="font-mono" font-size="9" font-weight="800" fill="#88A096" letter-spacing="1">SYSTEM DEFENSE</text>
+      <text x="0" y="30" class="font-mono" font-size="12" font-weight="800" fill="#00FF88" letter-spacing="0.5">CLUSTERS OPERATIONAL</text>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="#08201a"/>
+      <rect x="0" y="42" width="229" height="7" rx="3.5" fill="url(#barGrad)" filter="url(#neonGlowGreen)"/>
+    </g>
+  </g>
+
+  <!-- Bottom Footer Line -->
+  <text x="590" y="602" text-anchor="middle" class="font-mono" font-size="9" fill="#00FF88" letter-spacing="3" opacity="0.75">
+    • SYSTEMS CONNECTED // 4 DOMAINS // CONTINUOUS INTEGRATION // BUILD • SECURE • SCALE •
+  </text>
+</svg>
