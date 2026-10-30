@@ -3,15 +3,6 @@
   <!-- ==================== HEADER BANNER ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:112240,100:1f6feb&height=220&section=header&text=Earl%20Willan%20Pajo&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=IT%20Student%20%7C%20Full%20Stack%20Web%20Developer&descSize=16&descAlignY=60" width="100%"/>
 
-  <!-- ==================== PROFILE IDENTITY ==================== -->
-  <br/>
-
-  # Earl Willan Pajo
-
-  ### IT Student | Full Stack Web Developer
-
-  <br/>
-
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <a href="https://github.com/EARL146">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=780&height=45&lines=IT+Student+%7C+Full+Stack+Web+Developer;Building+Full+Stack+Web+Applications;Improving+Backend+Architecture+%26+APIs;Exploring+Modern+Tech+%26+Cybersecurity" alt="Typing SVG" />
@@ -47,7 +38,7 @@
 
 <br/>
 
-<!-- ==================== TECHNICAL SKILLS WITH LOGOS & TERMINAL ==================== -->
+<!-- ==================== TECHNICAL SKILLS WITH LOGO BOXES & TERMINAL ==================== -->
 <div align="center">
 
 ## Technical Skills
@@ -56,104 +47,37 @@
   <b>ENGINEERING STACK // FRONTEND // BACKEND // DATABASE // TERMINAL &amp; TOOLS</b>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,php,express,laravel,mysql,bash,powershell,linux,ubuntu,kali,git,github,vscode,arduino&perline=9&theme=dark" alt="Technical Skills Logos" />
-</p>
-
-<table align="center" width="100%">
-  <thead>
-    <tr align="center">
-      <th width="25%">01 / INTERFACE<br/><h3>FRONTEND</h3></th>
-      <th width="25%">02 / LOGIC<br/><h3>BACKEND</h3></th>
-      <th width="25%">03 / KNOWLEDGE<br/><h3>DATABASE</h3></th>
-      <th width="25%">04 / ENVIRONMENT<br/><h3>TERMINAL &amp; TOOLS</h3></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr valign="top">
-      <!-- FRONTEND -->
-      <td align="left">
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="70%" alt="Frontend Icons"/>
-        </p>
-        <b>Core Technologies:</b>
-        <ul>
-          <li><b>HTML5</b> Markup</li>
-          <li><b>CSS3</b> Styling</li>
-          <li><b>JavaScript</b> (ES6+)</li>
-          <li>Responsive Web Design</li>
-        </ul>
-        <hr/>
-        <p align="center">
-          <sub>BUILD STATUS</sub><br/>
-          <b>COMPONENTS ONLINE</b><br/>
-          <code>[████████████] 100%</code>
-        </p>
-      </td>
-      <!-- BACKEND -->
-      <td align="left">
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=java,nodejs,php,express,laravel&theme=dark" width="100%" alt="Backend Icons"/>
-        </p>
-        <b>Service Layer:</b>
-        <ul>
-          <li><b>Java</b> Development</li>
-          <li><b>Node.js</b> Runtime</li>
-          <li><b>PHP</b> Backend</li>
-          <li><b>Express.js</b> Framework</li>
-          <li><b>Laravel</b> Framework</li>
-        </ul>
-        <hr/>
-        <p align="center">
-          <sub>REQUEST FLOW</sub><br/>
-          <b>SERVICES SYNCHRONIZED</b><br/>
-          <code>[████████████] 100%</code>
-        </p>
-      </td>
-      <!-- DATABASE -->
-      <td align="left">
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" alt="MySQL" style="vertical-align: middle;"/>
-          &nbsp;&nbsp;
-          <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" width="45" alt="phpMyAdmin" style="vertical-align: middle;"/>
-        </p>
-        <b>Database Systems:</b>
-        <ul>
-          <li><b>MySQL</b> Database</li>
-          <li><b>phpMyAdmin</b> Suite</li>
-          <li>Relational Schemas</li>
-          <li>SQL Query Management</li>
-          <li>Data Modeling</li>
-        </ul>
-        <hr/>
-        <p align="center">
-          <sub>DATA PIPELINE</sub><br/>
-          <b>STREAMS HEALTHY</b><br/>
-          <code>[████████████] 100%</code>
-        </p>
-      </td>
-      <!-- TOOLS & TERMINAL -->
-      <td align="left">
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=bash,powershell,linux,kali,git,vscode&theme=dark" width="100%" alt="Tools & Terminal Icons"/>
-        </p>
-        <b>Terminal &amp; Environment:</b>
-        <ul>
-          <li><b>Terminal / Bash</b> CLI</li>
-          <li><b>PowerShell</b> Shell</li>
-          <li><b>Linux / Ubuntu</b> OS</li>
-          <li><b>Kali Linux</b> Security</li>
-          <li><b>Git &amp; GitHub</b> / <b>VS Code</b></li>
-        </ul>
-        <hr/>
-        <p align="center">
-          <sub>CLI &amp; SYSTEM DEFENSE</sub><br/>
-          <b>OPERATIONAL</b><br/>
-          <code>[████████████] 100%</code>
-        </p>
-      </td>
-    </tr>
-  </tbody>
+<table align="center" width="100%" border="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <!-- Frontend Box -->
+    <td width="50%" align="center" valign="middle" style="border: 1px solid #00F5FF; border-radius: 12px; padding: 22px; background: #0d1117; box-shadow: 0 4px 15px rgba(0,245,255,0.08);">
+      <h3>🌐 Frontend</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50" alt="Frontend Stack"/>
+    </td>
+    <!-- Backend Box -->
+    <td width="50%" align="center" valign="middle" style="border: 1px solid #00F5FF; border-radius: 12px; padding: 22px; background: #0d1117; box-shadow: 0 4px 15px rgba(0,245,255,0.08);">
+      <h3>⚙️ Backend</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,nodejs,php,express,laravel&theme=dark" height="50" alt="Backend Stack"/>
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <!-- Database Box -->
+    <td width="50%" align="center" valign="middle" style="border: 1px solid #10B981; border-radius: 12px; padding: 22px; background: #0d1117; box-shadow: 0 4px 15px rgba(16,185,129,0.08);">
+      <h3>🗄️ Database</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="MySQL" style="vertical-align: middle;"/>
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="50" alt="phpMyAdmin" style="vertical-align: middle;"/>
+    </td>
+    <!-- Terminal & Tools Box -->
+    <td width="50%" align="center" valign="middle" style="border: 1px solid #10B981; border-radius: 12px; padding: 22px; background: #0d1117; box-shadow: 0 4px 15px rgba(16,185,129,0.08);">
+      <h3>💻 Terminal &amp; Tools</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu,kali,git,github,vscode,arduino&theme=dark" height="50" alt="Terminal &amp; Tools Stack"/>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -304,16 +228,16 @@
 
 <p align="center">
   <a href="https://github.com/EARL146">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="38" alt="GitHub Profile"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub Profile"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:earlypajo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="38" alt="Send Email"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/earlnis-pajo-272840432">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <b>GitHub:</b> <a href="https://github.com/EARL146">github.com/EARL146</a> &bull; <b>Email:</b> <a href="mailto:earlypajo@gmail.com">earlypajo@gmail.com</a>
+  <b>GitHub:</b> <a href="https://github.com/EARL146">EARL146</a> &bull; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/earlnis-pajo-272840432">Earlnis Pajo</a>
 </p>
 
 <br/>
