@@ -323,14 +323,17 @@ Hi, I'm **Earl**, a college student from the Philippines with a passion for buil
       </a>
     </td>
   </tr>
-</table>
-
-<table align="center" width="100%" border="0" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
-    <td align="center" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
       <p><b>🔐 Specialized Technical Certificate #05</b></p>
       <a href="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png">
-        <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="65%" style="border-radius: 8px; border: 1.5px solid #00F5FF; box-shadow: 0 4px 12px rgba(0,245,255,0.15);" alt="Certificate 5"/>
+        <img src="https://raw.githubusercontent.com/EARL146/certificate/main/Screenshot%202026-09-06%20230551.png" width="100%" style="border-radius: 8px; border: 1.5px solid #00F5FF; box-shadow: 0 4px 12px rgba(0,245,255,0.15);" alt="Certificate 5"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
+      <p><b>🔐 GoHighLevel Workshop Certificate #06</b></p>
+      <a href="https://joinexcelerate.com/c/EXC-2026-EZG6NX">
+        <img src="https://raw.githubusercontent.com/EARL146/EARL146/main/certificates/gohighlevel_workshop.png" width="100%" style="border-radius: 8px; border: 1.5px solid #00F5FF; box-shadow: 0 4px 12px rgba(0,245,255,0.15);" alt="Certificate 6 - GoHighLevel Workshop"/>
       </a>
     </td>
   </tr>
