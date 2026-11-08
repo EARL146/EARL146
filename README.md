@@ -227,6 +227,10 @@
 ## Connect With Me
 
 <p align="center">
+  <a href="https://earlnis.dev">
+    <img src="https://raw.githubusercontent.com/EARL146/EARL146/main/portfolio.svg" height="42" alt="Portfolio Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/EARL146">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub Profile"/>
   </a>
@@ -237,7 +241,7 @@
 </p>
 
 <p align="center">
-  <b>GitHub:</b> <a href="https://github.com/EARL146">EARL146</a> &bull; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/earlnis-pajo-272840432">Earlnis Pajo</a>
+  <b>Portfolio:</b> <a href="https://earlnis.dev">earlnis.dev</a> &bull; <b>GitHub:</b> <a href="https://github.com/EARL146">EARL146</a> &bull; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/earlnis-pajo-272840432">Earlnis Pajo</a>
 </p>
 
 <br/>
