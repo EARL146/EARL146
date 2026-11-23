@@ -1,0 +1,10 @@
+# Exclude profile source & assets from GitHub "Download ZIP" (git archive)
+# Anyone clicking Download ZIP will only receive LICENSE and SECURITY.md
+README.md export-ignore
+snake.svg export-ignore
+portfolio.svg export-ignore
+certificates export-ignore
+certificates/** export-ignore
+.github export-ignore
+.github/** export-ignore
+.gitattributes export-ignore

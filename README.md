@@ -1,3 +1,16 @@
+<!--
+================================================================================
+  COPYRIGHT (c) 2021-2026 EARL WILLAN PAJO (@EARL146) — ALL RIGHTS RESERVED
+  Official GitHub:    https://github.com/EARL146
+  Official Portfolio: https://earlnis.dev
+  Official LinkedIn:  https://www.linkedin.com/in/earlnis-pajo-272840432
+
+  NOTICE: Unauthorized copying, cloning, scraping, or redistribution of this
+  README.md, custom SVGs (snake.svg, portfolio.svg), or certificates is
+  strictly prohibited under the proprietary LICENSE and subject to DMCA
+  takedown enforcement. See LICENSE and SECURITY.md for details.
+================================================================================
+-->
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
@@ -242,6 +255,10 @@
 
 <p align="center">
   <b>Portfolio:</b> <a href="https://earlnis.dev">earlnis.dev</a> &bull; <b>GitHub:</b> <a href="https://github.com/EARL146">EARL146</a> &bull; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/earlnis-pajo-272840432">Earlnis Pajo</a>
+</p>
+
+<p align="center">
+  <sub>&copy; 2021&ndash;2026 <b>Earl Willan Pajo (@EARL146)</b> &bull; <a href="./LICENSE">All Rights Reserved</a> &bull; Unauthorized copying or reuse is prohibited</sub>
 </p>
 
 <br/>
